@@ -1,1 +1,36 @@
 /* Stilmall för Förnamn Efternamn 4 */
+
+  </header> 
+  <nav>
+      <ul class="menu">
+      <li><a href="http://127.0.0.1:5500/gruppen6.2.html">Hem</a></li>
+      <li><a href="http://127.0.0.1:5500/linus6.2.html">Linus</a></li>
+      <li><a href="https://www.google.se.html/">Christoffer</a></li>
+      <li><a href="https://www.google.se.html/">Simon</a></li>
+      <li><a href="https://www.google.se.html">Nataly</a></li>
+     </ul>
+  </nav>
+  <section>
+
+  <h2 style="color: ghostwhite"> Hej! Mitt namn är Linus, och jag är född i november 1996, dvs så fyller jag snart 23 år. Jag kommer från Uppsala. Jag har en tvillingbror som heter Kasper samt en bonus lillebror som heter Niklas. Jag spelade innebandy som målvakt i IK Sirius på ganska så hög nivå i tonåren men var tvungen och lägga av efter en skada i knät. Gaming har tidigare varit ett ganska så stort intresse för mig då jag spelat konsol, WoW och CS GO. Nuförtiden, lirar jag spel då och då. </h2>
+
+  <h2 style="color: ghostwhite"> Mina fritidsintressen är att köra ett gympass eller konditionsträning, kolla på netflix samt umgås med familj och vänner. Jag tycker om att lyssna på flera olika typer av musikstilar, allt från svängande jazz melodier till rock i alla dess former m.m. Jag gillar att resa och upptäcka nya platser när det såklart passar med tillvaron. Länder jag varit i är Thailand, Tjeckien, Estland, Finland och Danmark. </h2>
+  
+
+  <a href="https://www.spotify.com/se/" style="color: #1ED761;font-size:30px;font-weight: bold">Spotify</a> 
+  <a href="https://www.netflix.com/browse" style="color: #1ED761;font-size:30px;font-weight: bold">Netflix</a> 
+  <a href="https://www.gymgrossisten.com/" style="color: #1ED761;font-size:30px;font-weight: bold">Gymgrosisten</a> 
+
+
+
+
+</section>
+
+  <footer>
+  <img src="linus.jpg" alt="Selfie">
+  <p style="color:rgb(183, 188, 190);font-size:50px"> Linus Sundin </p>
+  <p style="color:rgb(183, 188, 190);font-size:50px"> 0761137088 </p>
+  <p style="color:rgb(183, 188, 190);font-size:50px"> h19linsu@du.se </p>
+</footer> 
+
+</html> 
